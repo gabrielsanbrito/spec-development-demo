@@ -1,0 +1,23 @@
+<pre class='metadata'>
+Title: Iframe Media Pausing
+Shortname: iframe-media-pausing
+Level: 1
+Status: w3c/UD
+Group: wicg
+Repository: WICG/iframe-media-pausing
+URL: https://github.com/WICG/iframe-media-pausing
+Editor: Gabriel Santana Brito, Microsoft https://microsoft.com/, gabrielbrito@microsoft.com, https://github.com/gabrielsanbrito
+Abstract: This specification defines a new permission policy that allows the
+          user-agent to pause media playback in iframes which are not visible to
+          the user.
+Complain About: accidental-2119 yes, missing-example-ids yes
+Markup Shorthands: markdown yes, css no
+</pre>
+
+Introduction {#intro}
+=====================
+
+Introduction here.
+
+roduction here.
+
